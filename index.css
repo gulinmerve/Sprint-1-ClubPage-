@@ -27,7 +27,7 @@ img {
 span {
     writing-mode: vertical-lr;
     float: right;
-    font-size: 12px;
+    font-size: 0.75rem;
     line-height: 13px;
     font-family: 'PT Serif', serif;
     text-transform: uppercase;
